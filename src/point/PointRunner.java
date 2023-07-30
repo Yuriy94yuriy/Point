@@ -17,6 +17,5 @@ public class PointRunner extends Parameters {
         PointRunner clonnedPoint = point.clone();
         clonnedPoint.toString();
         System.out.println(clonnedPoint);
-
     }
 }
